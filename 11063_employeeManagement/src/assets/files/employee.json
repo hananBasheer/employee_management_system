@@ -1,0 +1,134 @@
+
+ [
+      {
+        "employeeId":1102,
+        "employeeName": "Mallika",
+        "phoneNumber": "9945678901",
+        "teamName":"Engineering",
+        "password":"1102",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+
+      },
+      {
+        "employeeId": 1103,
+        "employeeName": "Sher Khan",
+        "phoneNumber": "9637189302",
+        "teamName":"Engineering",
+        "password":"123456789",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+      },
+      {
+      
+        "employeeId": 1104,
+        "employeeName": "Kumari U.D.C",
+        "phoneNumber": "9557189302",     
+        "teamName": "Engineering",  
+        "password":"123456789",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+      },
+      {
+        
+        "employeeId": 1105,
+        "phoneNumber": "9690889302",
+        "employeeName": "Jose Keerikadan",
+        "teamName":"Support",
+        "password":"123456789",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+      },
+      {
+       
+         "employeeId": 1106,
+        "phoneNumber": "737189302",
+        "employeeName": "P.K Appukuttan",  
+        "teamName":"Product",      
+        "password":"123456789",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+      },
+      {
+        
+         "employeeId": 1107,
+        "phoneNumber": "925167890",
+        "employeeName": "John Honai",
+        "teamName":"Implementation",
+        "password":"123456789",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "0566-7771"
+        }
+      },
+      {
+         "employeeId": 1108,
+        "phoneNumber": "937189302",
+        "employeeName": "Akhilesh",
+        "teamName":"Admin",
+        "password":"1108",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+      },
+      {
+       
+         "employeeId": 1109,
+        "phoneNumber": "5557189302",
+        "employeeName": "Sugunan E.V",
+        "teamName":"HR",
+        "password":"1109",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+       
+      },
+      {
+     
+         "employeeId": 1110,
+        "phoneNumber": "5690889302",
+        "employeeName": "Sundaran P.K",
+        "teamName":"TOPS",
+        "password":"123456789",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+      },
+      {
+       
+         "employeeId": 1111,
+        "phoneNumber": "923456789",
+        "employeeName": "Seeta Mahalakshmi",
+        "teamName":"Implementation " ,
+        "password":"1111",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+        
+      }
+    ]
+  

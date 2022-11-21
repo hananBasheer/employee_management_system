@@ -1,0 +1,26 @@
+<div style="text-align:center ; color:rgb(66, 9, 119)">
+    <h1>
+        Employee Information 
+    </h1>
+  </div>
+
+<div class="container">
+  <div class="card p-4"> 
+    <div class=" image d-flex flex-column justify-content-center align-items-center">
+       <button class="btn btn-secondary"> <img src="https://i.imgur.com/wvxPV9S.png" height="100" width="100" /></button><br><br>
+          <span class="idd">{{currentUser.employeeId }}</span><br>
+          <span class="name">{{currentUser.employeeName }}</span><br><br> 
+             <span class="idd1"><i>Password: </i>{{currentUser.password }}</span><br> 
+             <div class="d-flex flex-row justify-content-center align-items-center mt-3">
+                  <span class="number" >Team : {{teamNumber}}<i class="number">   {{currentUser.teamName }}</i></span> </div><br>
+                  <div class=" d-flex mt-2">  
+                  </div> <div class="text mt-3"> 
+                       <span > {{currentUser.address.street}}, </span>
+                                    <span> {{currentUser.address.city}}, </span>
+                                    <span> {{currentUser.address.zipcode}}</span><br>
+                                    <span>Contact: {{currentUser.phoneNumber }}</span> 
+                                  </div> 
+                               
+                      </div> 
+                    </div>
+</div>

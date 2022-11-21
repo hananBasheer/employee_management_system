@@ -1,0 +1,16 @@
+<div style="text-align:center">
+    <h2>
+        Employee List 
+    </h2>
+<div class="grid">
+    <div class="card" *ngFor="let employee of employees" (click)="displayEmployee(employee)" >
+    <!-- routerLink="/login"> -->
+        <div class="container">
+            <h4><b>{{employee.employeeName}}</b></h4>
+            <i>{{employee.teamName}}</i>
+            <h5>{{employee.phoneNumber}} </h5>      
+            
+        </div>  
+      </div>
+    </div>
+</div>

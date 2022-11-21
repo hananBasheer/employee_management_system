@@ -1,0 +1,11 @@
+<h1 >
+    {{title}}
+  </h1>
+  <nav>
+    <div class="header">
+      <button class="btn" routerLink="/" >HOME</button>
+      <button class="btn right" routerLink="/login" *ngIf="!this.authService.isLoggedIn" >Login</button>
+      <button class="btn right" (click)="logout()" *ngIf="this.authService.isLoggedIn"  > Logout</button>  
+    </div>     
+  </nav>  
+  
